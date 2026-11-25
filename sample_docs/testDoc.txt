@@ -1,0 +1,96 @@
+AI and The end of Humanity [By Srivishva Melvin, sm25017]
+This debate talks about AI in general and how it will affect humanity, for either the better or
+the worse, and the speakers chosen for this topic were perfect as they are in the field already
+and they are the best to speak about this soon-to-be issue that is raising rapidly.
+The speakers are:
+1) Eliezer Yudkowsky – He is a leading safety AI reseacher who has done plenty of speeches
+about AI and has been against it due to fear of a catastrophe due to it.
+2) Joscha Bach – A Cognitive scientist that has done researches to compare the similarities
+and differences between the human mind and the one of an AI.
+3) Liv Boeree – A former Poker Champion, philanthropist and is currently a leading figure in
+the Effective Altruism Movement.
+4) Scott Aaronson – One of the best/leading Quantum Complexity theorist in the world and
+renowned for his research on quantum computing.
+5) Gunes Taylor – The host of this debate and a molecular biologist who primarily researches
+on reproductive glands of humans.
+Each speakers are unique in the way they think about AI, as Eliezer feels more towards
+getting afar from AI as it is still an unknown topic to us humans and experimenting on it
+without proper research beforehand seems like a spell to cause destruction, or at the very
+least a massive loss, of humanity; while Joscha thinks of AI like another species to live among
+humans, that yes it may still be new but will learn through human interactions and perhaps
+help in improving our current state of life we’re in. Liv and Scott on the other hand doesn’t
+seem to have any strong points towards either and are more neutral, with some points feeling
+more against AI while others may feel more towards the adoption of AI in our lives.
+The main themes covered in this debate was if first AI could ever develop humans qualities
+like emotions or even conciousness (which was the most critical topic that was spoken about
+in my opinion), if there was any benefits to humans from investing their time and resources
+into it and if we should continue developing it or fall back.
+The way each and every speakers presented their views was beautiful to say the least.
+They’ve described their views in a respectful yet strong manner, especially Eliezer and
+Joscha, and even if at times I was to disagree with a few points, I still understood and in a
+way, sympathizes as to why they have such an belief to a certain subject.
+The main points of agreements was that AI is at its earliest and still needs rigorous
+development to feel comfortable using it with full trust. As Eliezer and Scott pointed out and
+Liv and Joscha agreed and improved on later, that AI stills remains an invention that has
+changed humans for good. They have made us more dependent on their help, which in return
+as reduced our attention span and also motivation to improve or get our work done on our
+own. A point of disagreement was between Eliezer and the other speakers and that he saw AI
+as a tool and nothing else but a tool while everyone else saw it as another entity that could
+coexist with humans later on and I’ll have to side with Eliezer on this one because as it was
+mentioned, “AI isn’t made out of flesh and hence cannot be deemed another entity” is a valid
+point but the main difference between humans and AI that would remain a constant conflict
+and difference is that humans can and probably will always have control over AI, or any
+software of that sort, as its “conscience” is a line of code that can be read and modified by
+qualified humans, but the same cannot be done vice versa, that is AI directly accessing the
+human mind and changing it to how it pleases; which was what Eliezer was trying to get at
+when saying that AI doesn’t have emotion but instead “predicts”. At the end of the day AI is
+just a block of metal that has the entire internet’s knowledge inside and even then, makes
+simple mistake and usually does not learn from them, as opposed to humans.
+There was a point that was said by Eliezer and that I would to improve on, which was in brief,
+that AI will know we exist alongside them but will not actually hurt or eliminate us just for the
+sake of it. This point is an important one to keep in mind about handling AI because let’s say
+in the near future, it does gain consciousness and knows its power, it wouldn’t go out of its
+way to hurt a being inferior to it if it would gain noting, The same way us humans wouldn’t go
+out of our way to hurt every passing ants, unless they bite us in which “they got in our way”
+and hurting it would seem fair (I apologise for the rather gruesome example if that can be
+called like that) and feeling that AI would think that way isn’t farfetched too, and if we all could
+actually understand it then our fear about AI, like Gunes mentioned that she does speak
+respectfully to AI out of “fear”, would be greatly reduced.
+Another point where I do agree with is Joscha’s answer about the last theme (if humans will
+be able to keep AI under control or not), in which he said that the world is divided into 2
+groups, one who would think they can keep it under control, while the other feeling more like
+retreating is the better option, and Scott went into details about why each groups think in that
+way. Honestly, only time and further development will tell in which favor the final answer will
+go to but I feel like for now, we’ll be continuing with the mindset of “AI can be kept under
+control” but could switch at any moment if a misinput or an unusual output is shown from it.
+The last I wanted to cover and the only point I disagree with is with Liv, who says that looking
+at past history, the group of “higher” intelligence always won against the “lower” intelligence
+and AI could do the same with humans, as she assumes that AI are the “higher” intelligence
+group which I wholeheartedly disagree. We are the ones who built and created AI and even at
+the state it is right now (having the entire internet’s knowledge inside it), it still makes silly
+mistakes like the famous “2 + 2 = 5” incident where a user gaslighted chatGPT into believing
+that 2 + 2 is 5 and not 4. This incident alone proved that even if on paper AI is smarter than
+us, it is only “book-smart” and only predicts what we’ll do, if we were to be against it; while we
+could use multiple methods other than manipulation to come out on top, and is the reason
+why I say that humans are the “higher” intelligence and not AI.
+The dress-code made the debate feel a bit more relaxed, which does reduce the importance
+put into the topic from a spectator’s point of view, yet the voice and language used, apart from
+Liv’s slip-ups at times, re-enforced the actual issue and “problem” AI may cause. But overall,
+the environment of this debate clearly shows that we are listening to professionals who knows
+the subject well enough to give their views and, perhaps, advices on it.
+I would reduce the following:
+i) 0:11:00 – 0:12:41 => it felt more of a “filler” and could be greatly shorten to a 5-10 sec
+speech about what the first theme is and start with Scott as planned.
+ii) 0:24:52 – 0:27:08=> could be removed as the speech felt too long for what she was getting
+to and instead replaced with a short sentence of “is it fair to compare a 2 year-old baby with
+AI in terms of it knowing it is conscious?”
+iii) 0:27:08 – 0:33:18 => they (Eliezer, Scott and Joscha) kept talking and arguing about how
+AI is smarter and conscious about itself compared to a 2 year-old baby and as Gunes
+mentioned, “we’ve been stuck on proving it is smarter but what is the concern about it if it
+does actually gain consciousness”, felt like we were getting nowhere with it except that AI and
+a 2 year-old baby cannot be compared.
+iv) 0:41:20 – 0:45:22 => it felt like basic knowledge that AI doesn’t feel actual emotion (as
+Eliezer explained earlier that AI predicts, rather than actually feeling emotions), and we did
+already cover this topic of emotions with AI.
+v) 0:50:34 – 0:51:39 => Eliezer’s definition felt perfect, as Gunes stated and was the other
+who did ask about the definition of AGS, and hence the other’s definitions can be omitted.
